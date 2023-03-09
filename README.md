@@ -1,3 +1,1 @@
-# How to Create a Snapshot of Your Yearly Expenses in Colab
-
-This is a Colab notebook tutorial I made on doing basic data analysis to get an idea of your spending habits.
+Read the tutorial [here](How_to_Create_a_Snapshot_of_Your_Yearly_Expenses_in_Colab.ipynb).
